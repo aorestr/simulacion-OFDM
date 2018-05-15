@@ -1,0 +1,4 @@
+# Simulación de canal OFDM #
+Ejercicio realizado para la segunda práctica de la asignatura 'Televisión y Radio Digital' del grado de tecnologías de la telecomunicación de la Universidad de Granada. El propósito de la actividad es comprobar de manera teórica de qué modo actúa una señal OFDM a través de varios canales y cómo afecta el prefijo cíclico seleccionado en el momento de ser demodulada la señal.
+
+*main.m* es el script ejecutable, mientras que el resto de archivos no son más que funciones auxiliares. Cada uno de los ficheros está explicado de forma apropiada para facilitar su comprensión.
